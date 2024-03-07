@@ -1,0 +1,2 @@
+fruta = input("Digite um nome de fruta: ")
+print (fruta)
