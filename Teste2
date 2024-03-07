@@ -1,0 +1,5 @@
+codigo = 10
+salario = 1500.00
+nome = 'josé'
+
+print ("Código:",codigo, "nome:",nome, "O salário atual:",salario,)
